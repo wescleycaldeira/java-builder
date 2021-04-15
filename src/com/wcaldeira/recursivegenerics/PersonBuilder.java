@@ -1,4 +1,4 @@
-package com.wcaldeira.personbuilder;
+package com.wcaldeira.recursivegenerics;
 
 public class PersonBuilder<SELF extends PersonBuilder<SELF>> {
 
