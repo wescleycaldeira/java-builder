@@ -6,5 +6,8 @@ Creational Design Pattern
 - To make fluent, return this
 - Different facets of an object can be built with different builders working in tandem via base class
 
-
+Code Samples:
+- Simple Builder
+- Inheritance Recursive Generics
+- Facets Builder
 
